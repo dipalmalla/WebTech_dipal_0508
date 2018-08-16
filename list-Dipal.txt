@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>List by DM</title>
+<style type =”text/css”>
+	.head {
+		list-style-image: url(‘head.png’);
+	} 
+</style>
+</head>
+<body>
+<h1>Unordered list</h1>
+<ul>
+	<li>Hi</li>
+	<li>I</li>
+	<li>Am</li>
+	<li>Dipal</li>
+	<li>Malla</li>
+</ul>
+<br>
+<h2>Ordered list – Type ‘1’</h1>
+<ol type=”1”>
+	<li>I</li>
+	<li>Am</li>
+	<li>From</li>
+	<li>Butwal</li>
+	<li>Rupandehi</li>
+</ol>
+<br>
+<h2>Ordered list – Type ‘A’</h1>
+<ol type=”A”>
+	<li>I</li>
+	<li>Read</li>
+	<li>In</li>
+	<li>DWIT</li>
+	<li>College</li>
+</ol>
+<br>
+<h3>Ordered list – Type ‘i’</h1>
+<ol type=”i”>
+	<li>This</li>
+	<li>is</li>
+	<li>Roman</li>
+	<li>Letter</li>
+	<li>Type</li>
+</ol>
+<br>
+<h4>UnOrdered list – Type ‘Head’</h1>
+<ul class=”head”>
+	<li>This</li>
+	<li>is</li>
+	<li>Roman</li>
+	<li>Letter</li>
+	<li>Type</li>
+</ul>
+</body>
+</html>
