@@ -1,0 +1,22 @@
+.main {
+	border: 2px solid blue;
+	height: 600px;
+	width: auto;
+}	
+
+.a {
+	border: 1px solid black;
+	height: 100px;
+	margin: 2px 0px 20px 0px;
+}
+
+.b {
+	border: 1px solid black;
+	height: 350px;
+	margin-bottom: 20px;
+}
+
+.c {
+	border: 1px solid black;
+	height: 100px;
+}
